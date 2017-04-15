@@ -1,5 +1,5 @@
 
-###  docker commanda 
+###  docker commands 
 
 ```
 #!/bin/bash
